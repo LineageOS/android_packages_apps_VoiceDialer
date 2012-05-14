@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAS3//+Sg\u003d",
+        "filename": "src/com/android/voicedialer/VoiceDialerActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-05-14T11:45:25Z",
+      "side": 1,
+      "message": "That unneeded rearrangement of imports conflicts with the android coding style guidelines.",
+      "revId": "74c1901d7a7153933d9509991c2fe7a3873475f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAS3//+SY\u003d",
+        "filename": "src/com/android/voicedialer/VoiceDialerActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 190,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-05-14T11:45:25Z",
+      "side": 1,
+      "message": "Umm, what?\nThat while loop is always exited in the first run, so what\u0027s the point of it?",
+      "revId": "74c1901d7a7153933d9509991c2fe7a3873475f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAS3//+SU\u003d",
+        "filename": "src/com/android/voicedialer/VoiceDialerActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1125,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-05-14T11:45:25Z",
+      "side": 1,
+      "message": "Please explain this.",
+      "revId": "74c1901d7a7153933d9509991c2fe7a3873475f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
