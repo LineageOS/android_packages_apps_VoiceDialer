@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAT3///Zo\u003d",
+        "filename": "src/com/android/voicedialer/VoiceDialerActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 194,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2012-06-03T05:06:05Z",
+      "side": 1,
+      "message": "Don\u0027t use raw strings like this. We need to be able to translate stuff.",
+      "revId": "5f2a492e2b21229e124910abdbfbd58f92fe037c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
