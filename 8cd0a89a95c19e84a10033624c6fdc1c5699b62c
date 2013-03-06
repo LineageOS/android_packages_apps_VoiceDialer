@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX///ps\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-03-06T04:07:05Z",
+      "side": 1,
+      "message": "In every language a space after a colon is required, meaning the \\u00A0 after it is unnecessary",
+      "revId": "8cd0a89a95c19e84a10033624c6fdc1c5699b62c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX///po\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-03-06T04:07:05Z",
+      "side": 1,
+      "message": "In CM strings, the end-period is often removed, rather than added.\n\n@Delphin, your opinion?",
+      "revId": "8cd0a89a95c19e84a10033624c6fdc1c5699b62c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
