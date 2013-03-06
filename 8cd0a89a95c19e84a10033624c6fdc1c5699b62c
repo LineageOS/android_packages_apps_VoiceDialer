@@ -51,6 +51,24 @@
       "revId": "8cd0a89a95c19e84a10033624c6fdc1c5699b62c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX///pA\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-03-06T05:06:33Z",
+      "side": 1,
+      "message": "I looked in cm-10.1 strings and there isn\u0027t dot at end-period. If we are grammatically rigorous, its not correct. But it\u0027s more aesthetic and the choice (choice with personal opinion :), is to prefer the aesthetic.",
+      "parentUuid": "AAAAeX///po\u003d",
+      "revId": "8cd0a89a95c19e84a10033624c6fdc1c5699b62c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
