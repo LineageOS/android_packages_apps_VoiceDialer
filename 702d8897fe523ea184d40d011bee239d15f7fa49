@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_65209c4a",
+        "filename": "res/values-ug/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-13T04:15:21Z",
+      "side": 1,
+      "message": "Whitespace error",
+      "revId": "702d8897fe523ea184d40d011bee239d15f7fa49",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_851da811",
+        "filename": "res/values-ug/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-13T04:15:21Z",
+      "side": 1,
+      "message": "Whitespace error",
+      "revId": "702d8897fe523ea184d40d011bee239d15f7fa49",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
